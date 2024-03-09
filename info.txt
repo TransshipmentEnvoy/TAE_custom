@@ -1,0 +1,12 @@
+[ID:the_aeramore_expansion_custom]
+[NUMERIC_VERSION:721]
+[DISPLAYED_VERSION:7.21]
+[EARLIEST_COMPATIBLE_NUMERIC_VERSION:721]
+[EARLIEST_COMPATIBLE_DISPLAYED_VERSION:7.21]
+[AUTHOR:GasperV/Fatace,TransshipmentEnvoy]
+[NAME:The Aeramore Expansion (Custom)]
+[DESCRIPTION:A Major Expansion to the Vanilla game. More races, beasts, metals, weapons, secrets. Please read up on the Bay12Forums post of mine for more information! Customized by TransshipmentEnvoy]
+
+[STEAM_TITLE:The Aeramore Expansion (Custom)]
+[STEAM_DESCRIPTION:If you see this message, please refresh the page in 10 seconds. :)]
+[STEAM_TAG:mod]

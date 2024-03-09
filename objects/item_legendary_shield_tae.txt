@@ -1,0 +1,10 @@
+item_legendary_shield_tae
+
+[OBJECT:ITEM]
+
+[ITEM_SHIELD:ITEM_SHIELD_ELYPRUS]
+[NAME:Elyprus:Elypruses]
+[ARMORLEVEL:2]
+[BLOCKCHANCE:55]
+[UPSTEP:2]
+[MATERIAL_SIZE:6]

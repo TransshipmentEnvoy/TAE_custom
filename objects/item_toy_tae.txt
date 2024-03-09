@@ -1,0 +1,17 @@
+item_toy_tae
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_BAUBLE]
+[NAME:toy bauble:toy baubles]
+
+[ITEM_TOY:ITEM_TOY_DOLL]
+[NAME:toy doll:toy dolls]
+
+[ITEM_TOY:ITEM_TOY_FIGURE]
+[NAME:toy figure:toy figures]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MARBLES]
+[NAME:marbles:marbles]
+[HARD_MAT]

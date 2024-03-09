@@ -1,0 +1,69 @@
+tile_page_tae_all
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:TAE_WORKSHOPS]
+	[FILE:images/tae_workshops.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:768:1024]
+	
+[TILE_PAGE:TAE_WORKSHOPS_5x5]
+	[FILE:images/tae_workshops_5x5.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:1280:384]
+	
+[TILE_PAGE:TAE_MAJOR_BEASTS]
+	[FILE:images/tae_major_beasts.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:2304]
+	
+[TILE_PAGE:TAE_FINAL_BEASTS]
+	[FILE:images/tae_final_beasts.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:448]
+	
+[TILE_PAGE:TAE_CREATURE_NORMAL]
+	[FILE:images/tae_creature_normal.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:4384]
+	
+[TILE_PAGE:TAE_CREATURE_BIG]
+	[FILE:images/tae_creatures_big.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:3520]
+	
+	
+[TILE_PAGE:TAE_AMMO]
+	[FILE:images/tae_ammo.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:2:6]
+	
+[TILE_PAGE:TAE_FOOD]
+	[FILE:images/tae_food.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM:1:6]
+	
+[TILE_PAGE:TAE_ARMORS]
+	[FILE:images/tae_armors.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:128:736]	
+	
+[TILE_PAGE:TAE_WEAPONS_ETC]
+	[FILE:images/tae_weaponsetc.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:2720]	
+	
+[TILE_PAGE:TAE_CREATURE_SUMMONS]
+	[FILE:images/tae_creature_summons.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:1536]
+	
+[TILE_PAGE:TAE_ALPHA_WEREBEASTS]
+	[FILE:images/tae_alpha_werebeasts.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:1280]
+	
+
+	
+
+	

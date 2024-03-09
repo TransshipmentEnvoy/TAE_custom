@@ -1,0 +1,69 @@
+tile_page_tae_plants
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:TREE_ECHANORIAT]
+	[FILE:images/tree_echanoriat.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+	
+[TILE_PAGE:TREE_FROST_HURIOBI]
+	[FILE:images/tree_frost_huriobi.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+	
+[TILE_PAGE:TREE_ELDERIL]
+	[FILE:images/tree_elderil.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+	
+[TILE_PAGE:TREE_TERRAFEL]
+	[FILE:images/tree_terrafel.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_NEIFERA]
+	[FILE:images/tree_neifera.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_DAWNBELL]
+	[FILE:images/tree_dawnbell.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_SARADOLLUM]
+	[FILE:images/tree_saradollum.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_TUSKBERRY]
+	[FILE:images/tree_tuskberry.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_FIRECHERRY]
+	[FILE:images/tree_firecherry.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_DRAGONFRUIT]
+	[FILE:images/tree_dragonfruit.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_JARLBANE]
+	[FILE:images/tree_jarlbane.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_DRYFLOFE]
+	[FILE:images/tree_dryflofe.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+
+[TILE_PAGE:TREE_CRYSTAL_TREE]
+	[FILE:images/tree_crystal_tree.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:960]
+

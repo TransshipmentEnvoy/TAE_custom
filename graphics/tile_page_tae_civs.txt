@@ -1,0 +1,429 @@
+tile_page_tae_civs
+
+[OBJECT:TILE_PAGE]
+
+[TILE_PAGE:TAE_DRACONEI_BODY]
+	[FILE:images/tae_draconei_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_DRACONEI_CLOTHING]
+	[FILE:images/tae_draconei_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_DRACONEI_ARMOR]
+	[FILE:images/tae_draconei_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+	
+[TILE_PAGE:TAE_DRACONEI_BODY_SPECIAL]
+	[FILE:images/tae_draconei_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_ORK_BODY] New Ork Textures created by Zombun!
+	[FILE:images/tae_ork_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_ORK_CLOTHING]
+	[FILE:images/tae_ork_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_ORK_ARMOR]
+	[FILE:images/tae_ork_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+	
+[TILE_PAGE:TAE_ORK_BODY_SPECIAL]
+	[FILE:images/tae_ork_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_ORK_BODY_CORPSE]
+	[FILE:images/tae_ork_body_corpse.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:96:288]
+	
+[TILE_PAGE:TAE_NAGORIAN_BODY]
+	[FILE:images/tae_nagorian_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_NAGORIAN_CLOTHING]
+	[FILE:images/tae_nagorian_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_NAGORIAN_ARMOR]
+	[FILE:images/tae_nagorian_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+	
+[TILE_PAGE:TAE_NAGORIAN_BODY_SPECIAL]
+	[FILE:images/tae_nagorian_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_CROBOLD_BODY]
+	[FILE:images/tae_crobold_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_CROBOLD_CLOTHING]
+	[FILE:images/tae_crobold_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_CROBOLD_ARMOR]
+	[FILE:images/tae_crobold_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+	
+[TILE_PAGE:TAE_CROBOLD_BODY_SPECIAL]
+	[FILE:images/tae_crobold_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_KYTSUNI_BODY]
+	[FILE:images/tae_kytsuni_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_KYTSUNI_CLOTHING]
+	[FILE:images/tae_kytsuni_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_KYTSUNI_ARMOR]
+	[FILE:images/tae_kytsuni_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+
+[TILE_PAGE:TAE_KYTSUNI_BODY_SPECIAL]
+	[FILE:images/tae_kytsuni_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_YJOREL_BODY]
+	[FILE:images/tae_yjorel_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_YJOREL_CLOTHING]
+	[FILE:images/tae_yjorel_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_YJOREL_ARMOR]
+	[FILE:images/tae_yjorel_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+
+[TILE_PAGE:TAE_YJOREL_BODY_SPECIAL]
+	[FILE:images/tae_yjorel_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_MOREALIAN_BODY]
+	[FILE:images/tae_morealian_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_MOREALIAN_CLOTHING]
+	[FILE:images/tae_morealian_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_MOREALIAN_ARMOR]
+	[FILE:images/tae_morealian_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+
+[TILE_PAGE:TAE_MOREALIAN_BODY_SPECIAL]
+	[FILE:images/tae_morealian_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_TULMANIAN_BODY]
+	[FILE:images/tae_tulmanian_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_TULMANIAN_CLOTHING]
+	[FILE:images/tae_tulmanian_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_TULMANIAN_ARMOR]
+	[FILE:images/tae_tulmanian_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+
+[TILE_PAGE:TAE_TULMANIAN_BODY_SPECIAL]
+	[FILE:images/tae_tulmanian_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_VARGEON_BODY]
+	[FILE:images/tae_vargeon_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_VARGEON_CLOTHING]
+	[FILE:images/tae_vargeon_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_VARGEON_ARMOR]
+	[FILE:images/tae_vargeon_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+
+[TILE_PAGE:TAE_VARGEON_BODY_SPECIAL]
+	[FILE:images/tae_vargeon_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_GINDRAE_BODY]
+	[FILE:images/tae_gindrae_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_GINDRAE_CLOTHING]
+	[FILE:images/tae_gindrae_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_GINDRAE_ARMOR]
+	[FILE:images/tae_gindrae_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+
+[TILE_PAGE:TAE_GINDRAE_BODY_SPECIAL]
+	[FILE:images/tae_gindrae_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_SAEDRIC_BODY]
+	[FILE:images/tae_saedric_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_SAEDRIC_CLOTHING]
+	[FILE:images/tae_saedric_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_SAEDRIC_ARMOR]
+	[FILE:images/tae_saedric_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_SAEDRIC_BODY_SPECIAL]
+	[FILE:images/tae_saedric_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_ROFLORIAN_BODY]
+	[FILE:images/tae_roflorian_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_ROFLORIAN_CLOTHING]
+	[FILE:images/tae_roflorian_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_ROFLORIAN_ARMOR]
+	[FILE:images/tae_roflorian_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_ROFLORIAN_BODY_SPECIAL]
+	[FILE:images/tae_roflorian_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_JORH_BODY]
+	[FILE:images/tae_jorh_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_JORH_CLOTHING]
+	[FILE:images/tae_jorh_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_JORH_ARMOR]
+	[FILE:images/tae_jorh_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_JORH_BODY_SPECIAL]
+	[FILE:images/tae_jorh_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_AERIAN_BODY]
+	[FILE:images/tae_aerian_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_AERIAN_CLOTHING]
+	[FILE:images/tae_aerian_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_AERIAN_ARMOR]
+	[FILE:images/tae_aerian_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_AERIAN_BODY_SPECIAL]
+	[FILE:images/tae_aerian_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_FAEXARI_BODY]
+	[FILE:images/tae_faexari_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_FAEXARI_CLOTHING]
+	[FILE:images/tae_faexari_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_FAEXARI_ARMOR]
+	[FILE:images/tae_faexari_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_FAEXARI_BODY_SPECIAL]
+	[FILE:images/tae_faexari_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_ETHARLU_BODY]
+	[FILE:images/tae_etharlu_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_ETHARLU_CLOTHING]
+	[FILE:images/tae_etharlu_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_ETHARLU_ARMOR]
+	[FILE:images/tae_etharlu_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+	
+[TILE_PAGE:TAE_ETHARLU_BODY_SPECIAL]
+	[FILE:images/tae_etharlu_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_ZHAAHARA_BODY]
+	[FILE:images/tae_zhaahara_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_ZHAAHARA_CLOTHING]
+	[FILE:images/tae_zhaahara_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_ZHAAHARA_ARMOR]
+	[FILE:images/tae_zhaahara_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+	
+[TILE_PAGE:TAE_ZHAAHARA_BODY_SPECIAL]
+	[FILE:images/tae_zhaahara_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_URHORKEN_BODY]
+	[FILE:images/tae_urhorken_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_URHORKEN_CLOTHING]
+	[FILE:images/tae_urhorken_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_URHORKEN_ARMOR]
+	[FILE:images/tae_urhorken_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:800]
+	
+[TILE_PAGE:TAE_URHORKEN_BODY_SPECIAL]
+	[FILE:images/tae_urhorken_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+	
+[TILE_PAGE:TAE_ROWLEHEMOTH_BODY]
+	[FILE:images/tae_rowlehemoth_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_ROWLEHEMOTH_CLOTHING]
+	[FILE:images/tae_rowlehemoth_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_ROWLEHEMOTH_ARMOR]
+	[FILE:images/tae_rowlehemoth_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_ROWLEHEMOTH_BODY_SPECIAL]
+	[FILE:images/tae_rowlehemoth_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_ITCHLARI_BODY]
+	[FILE:images/tae_itchlari_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_ITCHLARI_CLOTHING]
+	[FILE:images/tae_itchlari_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_ITCHLARI_ARMOR]
+	[FILE:images/tae_itchlari_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_ITCHLARI_BODY_SPECIAL]
+	[FILE:images/tae_itchlari_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
+[TILE_PAGE:TAE_KREEMARE_BODY]
+	[FILE:images/tae_kreemare_body.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:416]
+
+[TILE_PAGE:TAE_KREEMARE_CLOTHING]
+	[FILE:images/tae_kreemare_clothes.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:576:736]
+
+[TILE_PAGE:TAE_KREEMARE_ARMOR]
+	[FILE:images/tae_kreemare_armor.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:416:768]
+
+[TILE_PAGE:TAE_KREEMARE_BODY_SPECIAL]
+	[FILE:images/tae_kreemare_body_special.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:288:672]
+
