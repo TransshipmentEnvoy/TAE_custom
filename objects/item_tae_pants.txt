@@ -2,7 +2,7 @@ item_tae_pants
 
 [OBJECT:ITEM]
 
-[ITEM_PANTS:ITEM_PANTS_BERZERKER_GREAVES]          Breastplates, Greaves and Helmets with unique names are basiclly race specific armor with its own detail in the armor looks.
+[ITEM_PANTS:ITEM_TAE_PANTS_BERZERKER_GREAVES]          Breastplates, Greaves and Helmets with unique names are basiclly race specific armor with its own detail in the armor looks.
 [NAME:berzerker greaves:berzerker greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -15,7 +15,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_PALADIN_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_PALADIN_GREAVES]
 [NAME:paladin greaves:paladin greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -28,7 +28,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_SERENIC_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_SERENIC_GREAVES]
 [NAME:serenic greaves:serenic greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -41,7 +41,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_DEMONVANE_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_DEMONVANE_GREAVES]
 [NAME:demonvane greaves:demonvane greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -54,7 +54,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_WARLORD_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_WARLORD_GREAVES]
 [NAME:warlord greaves:warlord greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -67,7 +67,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_ARMADYTE_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_ARMADYTE_GREAVES]
 [NAME:armadyte greaves:armadyte greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -80,7 +80,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_CYROCORE_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_CYROCORE_GREAVES]
 [NAME:cyrocore greaves:cyrocore greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -93,7 +93,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_SUNIGHT_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_SUNIGHT_GREAVES]
 [NAME:sunight greaves:sunight greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -106,7 +106,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_TSUNAMISCALE_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_TSUNAMISCALE_GREAVES]
 [NAME:tsunamiscale greaves:tsunamiscale greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -119,7 +119,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_ROSETHORN_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_ROSETHORN_GREAVES]
 [NAME:rosethorn greaves:rosethorn greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -132,7 +132,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_HERALDIC_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_HERALDIC_GREAVES]
 [NAME:heraldic greaves:heraldic greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -145,7 +145,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_DRAKEWING_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_DRAKEWING_GREAVES]
 [NAME:drakewing greaves:drakewing greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -158,7 +158,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_ANCESTRA_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_ANCESTRA_GREAVES]
 [NAME:ancestra greaves:ancestra greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -171,7 +171,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_BUHDARI_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_BUHDARI_GREAVES]
 [NAME:buhdari greaves:buhdari greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -184,7 +184,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_KALIKURE_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_KALIKURE_GREAVES]
 [NAME:kalikure greaves:kalikure greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -197,7 +197,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_GUARDIAN_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_GUARDIAN_GREAVES]
 [NAME:guardian greaves:guardian greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -210,7 +210,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_NIGHTHUNTER_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_NIGHTHUNTER_GREAVES]
 [NAME:nighthunter greaves:nighthunter greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -223,7 +223,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_AMAZONIC_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_AMAZONIC_GREAVES]
 [NAME:amazonic greaves:amazonic greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -236,7 +236,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_WAVEBREAKER_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_WAVEBREAKER_GREAVES]
 [NAME:wavebreaker greaves:wavebreaker greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -249,7 +249,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_VAEPIX_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_VAEPIX_GREAVES]
 [NAME:vaepix greaves:vaepix greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -262,7 +262,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_LICHVIKING_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_LICHVIKING_GREAVES]
 [NAME:lichviking greaves:lichviking greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -275,7 +275,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_WILDCLAW_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_WILDCLAW_GREAVES]
 [NAME:wildclaw greaves:wildclaw greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -288,7 +288,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_TITANGORD_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_TITANGORD_GREAVES]
 [NAME:titangord greaves:titangord greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -301,7 +301,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_DEVILBORN_GREAVES]
+[ITEM_PANTS:ITEM_TAE_PANTS_DEVILBORN_GREAVES]
 [NAME:devilborn greaves:devilborn greaves]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -314,7 +314,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_CHAINSKIRT]
+[ITEM_PANTS:ITEM_TAE_PANTS_CHAINSKIRT]
 [NAME:chainskirt:chainskirts]
 [ARMORLEVEL:2]
 [LBSTEP:1]
@@ -330,7 +330,7 @@ item_tae_pants
 [BARRED]
 [STRUCTURAL_ELASTICITY_CHAIN_ALL]
 
-[ITEM_PANTS:ITEM_PANTS_BATTLEROBESKIRT]
+[ITEM_PANTS:ITEM_TAE_PANTS_BATTLEROBESKIRT]
 [NAME:battlerobe skirt:battlerobe skirts]
 [ARMORLEVEL:2]
 [LBSTEP:MAX]
@@ -344,7 +344,7 @@ item_tae_pants
 [BARRED]
 [STRUCTURAL_ELASTICITY_CHAIN_ALL]
 
-[ITEM_PANTS:ITEM_PANTS_CADAVELIER_LEGGINGS]
+[ITEM_PANTS:ITEM_TAE_PANTS_CADAVELIER_LEGGINGS]
 [NAME:cadavelier leggings:cadavelier leggings]
 [ARMORLEVEL:3]
 [LBSTEP:0]
@@ -357,7 +357,7 @@ item_tae_pants
 [SCALED]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_IMPAULDRON_PLATELEGS]
+[ITEM_PANTS:ITEM_TAE_PANTS_IMPAULDRON_PLATELEGS]
 [NAME:impauldron platelegs:impauldron platelegs]
 [ARMORLEVEL:3]
 [LBSTEP:MAX]
@@ -370,7 +370,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_RIGHTEOUSAL_TASSETS]
+[ITEM_PANTS:ITEM_TAE_PANTS_RIGHTEOUSAL_TASSETS]
 [NAME:righteousal tasset:righteousal tassets]
 [ARMORLEVEL:3]
 [LBSTEP:1]
@@ -383,7 +383,7 @@ item_tae_pants
 [METAL]
 [HARD]
 
-[ITEM_PANTS:ITEM_PANTS_SCALEMAIL_CHAPS]
+[ITEM_PANTS:ITEM_TAE_PANTS_SCALEMAIL_CHAPS]
 [NAME:scalemail chaps:scalemail chaps]
 [ARMORLEVEL:2]
 [LBSTEP:MAX]

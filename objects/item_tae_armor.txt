@@ -2,7 +2,7 @@ item_tae_armor
 
 [OBJECT:ITEM]
 
-[ITEM_ARMOR:ITEM_ARMOR_BERZERKER_BREASTPLATE]           Breastplates, Greaves and Helmets with unique names are basiclly race specific armor with its own detail in the armor looks.
+[ITEM_ARMOR:ITEM_TAE_ARMOR_BERZERKER_BREASTPLATE]           Breastplates, Greaves and Helmets with unique names are basiclly race specific armor with its own detail in the armor looks.
 [NAME:berzerker breastplate:berzerker breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -16,7 +16,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_PALADIN_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_PALADIN_BREASTPLATE]
 [NAME:paladin breastplate:paladin breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -30,7 +30,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_SERENIC_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_SERENIC_BREASTPLATE]
 [NAME:serenic breastplate:serenic breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -44,7 +44,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_DEMONVANE_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_DEMONVANE_BREASTPLATE]
 [NAME:demonvane breastplate:demonvane breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -58,7 +58,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_WARLORD_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_WARLORD_BREASTPLATE]
 [NAME:warlord breastplate:warlord breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -72,7 +72,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_ARMADYTE_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_ARMADYTE_BREASTPLATE]
 [NAME:armadyte breastplate:armadyte breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -86,7 +86,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_CYROCORE_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_CYROCORE_BREASTPLATE]
 [NAME:cyrocore breastplate:cyrocore breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -100,7 +100,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_SUNIGHT_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_SUNIGHT_BREASTPLATE]
 [NAME:sunight breastplate:sunight breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -114,7 +114,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_TSUNAMISCALE_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_TSUNAMISCALE_BREASTPLATE]
 [NAME:tsunamiscale breastplate:tsunamiscale breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -128,7 +128,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_ROSETHORN_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_ROSETHORN_BREASTPLATE]
 [NAME:rosethorn breastplate:rosethorn breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -142,7 +142,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_HERALDIC_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_HERALDIC_BREASTPLATE]
 [NAME:heraldic breastplate:heraldic breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -156,7 +156,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_DRAKEWING_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_DRAKEWING_BREASTPLATE]
 [NAME:drakewing breastplate:drakewing breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -170,7 +170,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_ANCESTRA_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_ANCESTRA_BREASTPLATE]
 [NAME:ancestra breastplate:ancestra breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -184,7 +184,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_BUHDARI_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_BUHDARI_BREASTPLATE]
 [NAME:buhdari breastplate:buhdari breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -198,7 +198,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_KALIKURE_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_KALIKURE_BREASTPLATE]
 [NAME:kalikure breastplate:kalikure breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -212,7 +212,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_GUARDIAN_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_GUARDIAN_BREASTPLATE]
 [NAME:guardian breastplate:guardian breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -226,7 +226,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_NIGHTHUNTER_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_NIGHTHUNTER_BREASTPLATE]
 [NAME:nighthunter breastplate:nighthunter breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -240,7 +240,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_AMAZONIC_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_AMAZONIC_BREASTPLATE]
 [NAME:amazonic breastplate:amazonic breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -254,7 +254,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_WAVEBREAKER_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_WAVEBREAKER_BREASTPLATE]
 [NAME:wavebreaker breastplate:wavebreaker breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -268,7 +268,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_VAEPIX_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_VAEPIX_BREASTPLATE]
 [NAME:vaepix breastplate:vaepix breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -282,7 +282,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_LICHVIKING_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_LICHVIKING_BREASTPLATE]
 [NAME:lichviking breastplate:lichviking breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -296,7 +296,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_WILDCLAW_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_WILDCLAW_BREASTPLATE]
 [NAME:wildclaw breastplate:wildclaw breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -310,7 +310,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_TITANGORD_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_TITANGORD_BREASTPLATE]
 [NAME:titangord breastplate:titangord breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -324,7 +324,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_DEVILBORN_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_DEVILBORN_BREASTPLATE]
 [NAME:devilborn breastplate:devilborn breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -338,7 +338,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_BRASSARD]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_BRASSARD]
 [NAME:brassard:brassards]
 [ARMORLEVEL:2]
 [UBSTEP:1]
@@ -354,7 +354,7 @@ item_tae_armor
 [BARRED]
 [STRUCTURAL_ELASTICITY_CHAIN_ALL]
 
-[ITEM_ARMOR:ITEM_ARMOR_BATTLEROBE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_BATTLEROBE]
 [NAME:battlerobe:battlerobes]
 [ARMORLEVEL:2]
 [UBSTEP:MAX]
@@ -369,7 +369,7 @@ item_tae_armor
 [BARRED]
 [STRUCTURAL_ELASTICITY_CHAIN_ALL]
 
-[ITEM_ARMOR:ITEM_ARMOR_CADAVELIER_CHESTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_CADAVELIER_CHESTPLATE]
 [NAME:cadavelier chestplate:cadavelier chestplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -384,7 +384,7 @@ item_tae_armor
 [SCALED]
 [BARRED]
 
-[ITEM_ARMOR:ITEM_ARMOR_IMPAULDRON_BREASTPLATE]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_IMPAULDRON_BREASTPLATE]
 [NAME:impauldron breastplate:impauldron breastplates]
 [ARMORLEVEL:3]
 [UBSTEP:1]
@@ -398,7 +398,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_RIGHTEOUSAL_CUIRASS]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_RIGHTEOUSAL_CUIRASS]
 [NAME:righteousal cuirass:righteousal cuirasses]
 [ARMORLEVEL:3]
 [UBSTEP:0]
@@ -412,7 +412,7 @@ item_tae_armor
 [HARD]
 [METAL]
 
-[ITEM_ARMOR:ITEM_ARMOR_SCALEMAIL_CUIRASS]
+[ITEM_ARMOR:ITEM_TAE_ARMOR_SCALEMAIL_CUIRASS]
 [NAME:scalemail cuirass:scalemail cuirasses]
 [ARMORLEVEL:2]
 [UBSTEP:1]

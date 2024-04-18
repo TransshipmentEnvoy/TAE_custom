@@ -2,7 +2,7 @@ item_tae_helm
 
 [OBJECT:ITEM]
 
-[ITEM_HELM:ITEM_HELM_BERZERKER_HELM]          Breastplates, Greaves and Helmets with unique names are basiclly race specific armor with its own detail in the armor looks.
+[ITEM_HELM:ITEM_TAE_HELM_BERZERKER_HELM]          Breastplates, Greaves and Helmets with unique names are basiclly race specific armor with its own detail in the armor looks.
 [NAME:berzerker helm:berzerker helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -14,7 +14,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_PALADIN_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_PALADIN_HELM]
 [NAME:paladin helm:paladin helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -26,7 +26,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_SERENIC_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_SERENIC_HELM]
 [NAME:serenic helm:serenic helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -38,7 +38,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_DEMONVANE_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_DEMONVANE_HELM]
 [NAME:demonvane helm:demonvane helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -50,7 +50,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_WARLORD_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_WARLORD_HELM]
 [NAME:warlord helm:warlord helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -62,7 +62,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_ARMADYTE_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_ARMADYTE_HELM]
 [NAME:armadyte helm:armadyte helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -74,7 +74,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_CYROCORE_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_CYROCORE_HELM]
 [NAME:cyrocore helm:cyrocore helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -86,7 +86,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_SUNIGHT_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_SUNIGHT_HELM]
 [NAME:sunight helm:sunight helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -98,7 +98,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_TSUNAMISCALE_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_TSUNAMISCALE_HELM]
 [NAME:tsunamiscale helm:tsunamiscale helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -110,7 +110,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_ROSETHORN_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_ROSETHORN_HELM]
 [NAME:rosethorn helm:rosethorn helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -122,7 +122,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_HERALDIC_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_HERALDIC_HELM]
 [NAME:heraldic helm:heraldic helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -134,7 +134,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_DRAKEWING_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_DRAKEWING_HELM]
 [NAME:drakewing helm:drakewing helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -146,7 +146,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_ANCESTRA_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_ANCESTRA_HELM]
 [NAME:ancestra helm:ancestra helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -158,7 +158,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_BUHDARI_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_BUHDARI_HELM]
 [NAME:buhdari helm:buhdari helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -170,7 +170,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_KALIKURE_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_KALIKURE_HELM]
 [NAME:kalikure helm:kalikure helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -182,7 +182,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_GUARDIAN_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_GUARDIAN_HELM]
 [NAME:guardian helm:guardian helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -194,7 +194,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_NIGHTHUNTER_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_NIGHTHUNTER_HELM]
 [NAME:nighthunter helm:nighthunter helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -206,7 +206,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_AMAZONIC_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_AMAZONIC_HELM]
 [NAME:amazonic helm:amazonic helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -218,7 +218,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_WAVEBREAKER_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_WAVEBREAKER_HELM]
 [NAME:wavebreaker helm:wavebreaker helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -230,7 +230,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_VAEPIX_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_VAEPIX_HELM]
 [NAME:vaepix helm:vaepix helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -242,7 +242,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_LICHVIKING_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_LICHVIKING_HELM]
 [NAME:lichviking helm:lichviking helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -254,7 +254,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_WILDCLAW_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_WILDCLAW_HELM]
 [NAME:wildclaw helm:wildclaw helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -266,7 +266,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_TITANGORD_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_TITANGORD_HELM]
 [NAME:titangord helm:titangord helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -278,7 +278,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_DEVILBORN_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_DEVILBORN_HELM]
 [NAME:devilborn helm:devilborn helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -290,7 +290,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_TROJAN]
+[ITEM_HELM:ITEM_TAE_HELM_TROJAN]
 [NAME:trojan helm:trojan helms]
 [ARMORLEVEL:2]
 [SHAPED]
@@ -304,7 +304,7 @@ item_tae_helm
 [BARRED]
 [SCALED]
 
-[ITEM_HELM:ITEM_HELM_BATTLEHOOD]
+[ITEM_HELM:ITEM_TAE_HELM_BATTLEHOOD]
 [NAME:battlehood:battlehoods]
 [ARMORLEVEL:2]
 [LAYER:ARMOR]
@@ -317,7 +317,7 @@ item_tae_helm
 [BARRED]
 [STRUCTURAL_ELASTICITY_CHAIN_ALL]
 
-[ITEM_HELM:ITEM_HELM_SKULL_MASK]
+[ITEM_HELM:ITEM_TAE_HELM_SKULL_MASK]
 [NAME:skull mask:skull masks]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -329,7 +329,7 @@ item_tae_helm
 [HARD]
 [SHAPED]
 
-[ITEM_HELM:ITEM_HELM_CADAVELIER_BARBUTA]
+[ITEM_HELM:ITEM_TAE_HELM_CADAVELIER_BARBUTA]
 [NAME:cadavelier barbuta:cadavelier barbutas]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -342,7 +342,7 @@ item_tae_helm
 [SCALED]
 [BARRED]
 
-[ITEM_HELM:ITEM_HELM_IMPAULDRON_HORNED_HELM]
+[ITEM_HELM:ITEM_TAE_HELM_IMPAULDRON_HORNED_HELM]
 [NAME:impauldron horned-helm:impauldron horned-helms]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -354,7 +354,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_RIGHTEOUSAL_WINGED_SPANGEN]
+[ITEM_HELM:ITEM_TAE_HELM_RIGHTEOUSAL_WINGED_SPANGEN]
 [NAME:righteousal winged-spangen:righteousal winged-spangens]
 [ARMORLEVEL:3]
 [SHAPED]
@@ -366,7 +366,7 @@ item_tae_helm
 [HARD]
 [METAL]
 
-[ITEM_HELM:ITEM_HELM_SCALEMAIL_COIF]
+[ITEM_HELM:ITEM_TAE_HELM_SCALEMAIL_COIF]
 [NAME:scalemail coif:scalemail coifs]
 [LAYER:ARMOR]
 [COVERAGE:90]
