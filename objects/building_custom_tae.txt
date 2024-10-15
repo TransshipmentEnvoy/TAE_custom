@@ -40,7 +40,7 @@ building_custom_tae
 	[TOOLTIP:Use large gems and flux stones to creat special gem related items/furnitures.]
 	
 [BUILDING_WORKSHOP:EXTRACTOR]
-	[NAME:Extrator's Workshop]
+	[NAME:Extractor's Workshop]
 	[NAME_COLOR:1:0:1]
 	[DIM:3:3]
 	[WORK_LOCATION:2:3]

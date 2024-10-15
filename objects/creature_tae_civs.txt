@@ -3,7 +3,7 @@ creature_tae_civs
 [OBJECT:CREATURE]
 
 [CREATURE:ORK]
-	[DESCRIPTION:A big-sized humanoid with a muscular body and sharp teeth, a brute creature that is bent on war and conqouring.]
+	[DESCRIPTION:A big-sized humanoid with a muscular body and sharp teeth, a brute creature that is bent on war and conquering.]
 	[NAME:ork:orks:ork]
 	[CASTE_NAME:ork:orks:ork]
 	[CREATURE_TILE:'q'][COLOR:4:0:0]

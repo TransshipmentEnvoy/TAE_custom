@@ -64,6 +64,22 @@ tile_page_tae_all
 	[PAGE_DIM_PIXELS:96:1280]
 	
 
-	
+[TILE_PAGE:TAE_BASE_WIELDABLES]
+	[FILE:images/wieldablebase.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:384:864]	
 
+[TILE_PAGE:TAE_DWARFBASE_HAIR]
+	[FILE:images/dwarfbase_hair.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:608]
+
+[TILE_PAGE:TAE_HUMANBASE_HAIR]
+	[FILE:images/humanbase_hair.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:608]
 	
+[TILE_PAGE:TAE_ELFBASE_HAIR]
+	[FILE:images/elfbase_hair.png]
+	[TILE_DIM:32:32]
+	[PAGE_DIM_PIXELS:192:608]
