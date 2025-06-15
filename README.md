@@ -4,7 +4,7 @@ Customized by TransshipmentEnvoy
 
 ---
 
-Original:
+Original mod by GasperV/Fatace:
 
 + [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=2901156884&searchtext=)
 + [Bay12Forums](https://www.bay12forums.com/smf/index.php?topic=170408.0)
