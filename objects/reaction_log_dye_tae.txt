@@ -9,7 +9,7 @@ reaction_log_dye_tae
 	[PRODUCT:100:1:WOOD:NO_SUBTYPE:PLANT_MAT:BLACK_DYE_WOOD:WOOD]
 	[SKILL:DYER]
 	[CATEGORY:DYE_CRAFT_LOG]
-	[CATEGORY_NAME:Wood Dyeing (use (d)etail)]
+	[CATEGORY_NAME:Wood Dyeing]
 
 [REACTION:DYE_WOOD_DARK_GREY]
 	[NAME:dye wood dark grey]

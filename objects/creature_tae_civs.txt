@@ -1684,7 +1684,7 @@ creature_tae_civs
 	[DESCRIPTION:A semi-short, but very intelligent creature that enjoys building. It is said that they are similar to gnomes but only taller.]
 	[NAME:etharlu:etharlians:etharlian]
 	[CASTE_NAME:etharlu:etharlians:etharlian]
-	[CREATURE_TILE:'e'][COLOR:5:5:1]
+	[CREATURE_TILE:'e'][COLOR:6:0:0]
 	[CREATURE_SOLDIER_TILE:'E']
 	[CREATURE_CLASS:MAMMAL]
 	[INTELLIGENT]
