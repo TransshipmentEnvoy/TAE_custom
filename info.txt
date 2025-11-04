@@ -1,4 +1,4 @@
-[ID:the_aeramore_expansion]
+[ID:the_aeramore_expansion_custom]
 [NUMERIC_VERSION:740]
 [DISPLAYED_VERSION:7.40]
 [EARLIEST_COMPATIBLE_NUMERIC_VERSION:740]
